@@ -316,7 +316,7 @@
     <string name="others_array_title">Versch. Gamma Einstellungen</string>
     <string name="gain_level_summary">Dies kontrolliert die Verstärkung für das Headset. Könnte die Tonausgabe für die Kopfhörer löschen.</string>
     <string name="gain_level_title">Erhöhe Headset Lautstärke</string>
-    <string name="system_monitor_summary">Überwache Deinen CPU Last Status, Deine RAM Werte, Dein IO und deine Netzwerk Last mit einer schönen Oberfläche. Diese Funktion wurde von Christian Göllner programmiert und freundlicherweise bereit gestellt. More Informationen innen.</string>
+    <string name="system_monitor_summary">Überwache Deinen CPU Last Status, Deine RAM Werte, Dein IO und deine Netzwerk Last mit einer schönen Oberfläche. Diese Funktion wurde von Christian Göllner programmiert und freundlicherweise bereit gestellt. Mehr Informationen innen.</string>
     <string name="system_monitor_title">System Monitor</string>
     <string name="load_user_profiles_title">Lade Farb Profil Voreinstellungen</string>
     <string name="load_user_profiles_summary">Drücke hier um eine Menge eigener Farb Profile zu laden, die von Nutzern meines Kernels/ meiner App erstellt wurden - Danke euch allen.</string>
